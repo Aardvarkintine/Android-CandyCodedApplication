@@ -46,6 +46,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iCDxIHwbMuIPFta8wGXb6e4WRF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -171,26 +172,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602096813924" />
-    <state width="1306" height="188" key="GridCell.Tab.0.bottom" timestamp="1602096817638">
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602097729195">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602096817638" />
-    <state width="1306" height="188" key="GridCell.Tab.0.center" timestamp="1602096817638">
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602097729195" />
+    <state x="499" y="277" key="Github.ShareDialog" timestamp="1602097957814">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602096817638" />
-    <state width="1306" height="188" key="GridCell.Tab.0.left" timestamp="1602096817637">
+    <state x="499" y="277" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1602097957814" />
+    <state width="1306" height="188" key="GridCell.Tab.0.bottom" timestamp="1602098108734">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602096817637" />
-    <state width="1306" height="188" key="GridCell.Tab.0.right" timestamp="1602096817638">
+    <state width="1306" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602098108734" />
+    <state width="1306" height="188" key="GridCell.Tab.0.center" timestamp="1602098108733">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602096817638" />
+    <state width="1306" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602098108733" />
+    <state width="1306" height="188" key="GridCell.Tab.0.left" timestamp="1602098108733">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602098108733" />
+    <state width="1306" height="188" key="GridCell.Tab.0.right" timestamp="1602098108734">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602098108734" />
     <state x="327" y="105" key="RollbackChangesDialog" timestamp="1601403116704">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="327" y="105" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1601403116704" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1602097891959">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602097891959" />
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1602096098945">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
